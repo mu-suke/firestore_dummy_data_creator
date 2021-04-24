@@ -1,0 +1,27 @@
+{
+  "name": "firestore_dummy_data_creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-suke/firestore_dummy_data_creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mu-suke/firestore_dummy_data_creator/issues"
+  },
+  "homepage": "https://github.com/mu-suke/firestore_dummy_data_creator#readme",
+  "dependencies": {
+    "firebase-admin": "^9.6.0"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
